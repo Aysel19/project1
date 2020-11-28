@@ -1,0 +1,13 @@
+.head > #home, #departm ,#login{
+    color: palegoldenrod;
+    background-color: peru;
+    text-align: center;
+    padding: 1%;
+    text-decoration: none;
+}
+
+.vtp >#vt , #ozgun{
+    color: slategray;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}

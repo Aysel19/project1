@@ -1,0 +1,29 @@
+ .dep >  #acc, #it, #hr, #procur{
+    border: 2px solid gray;
+    text-decoration: none;
+    width: 200px;
+    height: 200px;  
+  
+}
+
+.dep>#acc{
+    color: indigo;
+    background-color: lavenderblush;
+    border-radius: 0%;
+
+}
+.dep>#it{
+    background-color: lightblue;
+    color:red;
+}
+.dep>#hr{
+    background-color: mediumaquamarine;
+    color: mediumorchid;
+}
+.dep>#procur{
+    background-color: moccasin;
+    color: olivedrab;
+}
+#h1> .vtp, .ozgun{
+    color: skyblue;
+}
